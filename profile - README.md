@@ -8,7 +8,7 @@
 ---
 
 ### About Me
--  Masters in Public Polcy from Harvard Kennedy School, B.A. in Economics from UC Berkeley — coursework in statistics, econometrics/causal inference, and applied machine learning
+-  Masters in Public Policy from Harvard Kennedy School, B.A. in Economics from UC Berkeley — coursework in statistics, econometrics/causal inference, and applied machine learning
 -  Currently: Research Analyst and Consultant at Public Interest Experts, formerly Sernior Research Analyst at The Brattle Group
 -  Focus areas: **causal & quasi-experimental methods, program evaluation, state and local economic development**
 -  Interested in: **social safety net programs, food policy and food access, state and local economic development**
