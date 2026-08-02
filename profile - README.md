@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alice Shao</h1>
-<h3 align="center">Aspiring to use rigorous statistical methods to inform policy and program decisions</h3>
+<h3 align="center">Aspiring to use rigorous  methods to inform policy and program decisions</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/alice-shao-899508136"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages:** Python · R · Stata · SQL
 **Statistics & Causal Inference:** regression, intent-to-treat/quasi-experimental design, difference-in-differences, matching
