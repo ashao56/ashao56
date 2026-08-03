@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alice Shao</h1>
-<h3 align="center"> Bringing quantitative methods to policy decisions with a focus on food access and food policy, and state and local economic development/h3>
+<h3 align="center"> Policy researcher with an MPP from Harvard Kennedy School and four years as a Senior Research Analyst at The Brattle Group, translating messy administrative records, historical archives, and unstructured text into defensible findings through causal inference, record linkage, geospatial analysis, and early applied LLM work.</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/alice-shao-899508136"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
